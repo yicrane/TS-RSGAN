@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BasicSR_yic/.idea/BasicSR.iml" filepath="$PROJECT_DIR$/../BasicSR_yic/.idea/BasicSR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KernelGAN_yic/.idea/KernelGAN_yic.iml" filepath="$PROJECT_DIR$/../KernelGAN_yic/.idea/KernelGAN_yic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Real-SR_yic/.idea/Real-SR_yic.iml" filepath="$PROJECT_DIR$/../Real-SR_yic/.idea/Real-SR_yic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TS-RSGAN.iml" filepath="$PROJECT_DIR$/.idea/TS-RSGAN.iml" />
+    </modules>
+  </component>
+</project>
